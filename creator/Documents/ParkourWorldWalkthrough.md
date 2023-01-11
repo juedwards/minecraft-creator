@@ -8,7 +8,7 @@ description: "Let's walkthrough a sample parkour map"
 
 # Parkour Map Walkthrough
 
-Our team a map that shows off cool parkour mechanics you can use to challenge players and create a fun gameplay loop. We'll walk through the parkour mechanics that go into this sample parkour map.
+Our team created a map that shows off cool parkour mechanics you can use to challenge players and create a fun gameplay loop. We'll walk through the parkour mechanics that go into this sample parkour map.
 
 > [!div class="checklist"]
 >
